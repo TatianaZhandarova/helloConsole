@@ -1,0 +1,15 @@
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/bin/Debug/net8.0/Example008_IntroMetod
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/bin/Debug/net8.0/Example008_IntroMetod.deps.json
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/bin/Debug/net8.0/Example008_IntroMetod.runtimeconfig.json
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/bin/Debug/net8.0/Example008_IntroMetod.dll
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/bin/Debug/net8.0/Example008_IntroMetod.pdb
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/Example008_IntroMetod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/Example008_IntroMetod.AssemblyInfoInputs.cache
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/Example008_IntroMetod.AssemblyInfo.cs
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/Example008_IntroMetod.csproj.CoreCompileInputs.cache
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/Example008_IntroMetod.sourcelink.json
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/Example008_IntroMetod.dll
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/refint/Example008_IntroMetod.dll
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/Example008_IntroMetod.pdb
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/Example008_IntroMetod.genruntimeconfig.cache
+/Users/evgenijzandarov/Desktop/Education/Lection/helloConsole/Example008_IntroMetod/obj/Debug/net8.0/ref/Example008_IntroMetod.dll
